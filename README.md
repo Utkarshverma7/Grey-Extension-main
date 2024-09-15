@@ -7,10 +7,6 @@ Project Grey is a browser extension designed to empower users by detecting and h
 ## Installation 
 https://docs.google.com/document/d/1wKcAP7ZINLyAo7WQFrAhpPc5l852K72_jO0pRjtKKd4/edit 
 
-## Working Diagram
-
-<img width="2149" alt="darkextension" src="https://github.com/Project-Dark/Dark-Extension/assets/100071948/e592b1a7-0d65-48e9-b988-afc676326b9a">
-
 ## Key Features
 
 - **Screenshot Analysis:** Utilizes browser capabilities to capture visible tab content.
